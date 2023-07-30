@@ -1,1 +1,1 @@
-Java REST API with Spring Boot. Implements a simple RESTful web service for communication between systems. Clients can send HTTP requests to the server, which responds with JSON/XML data. Follows REST principles for scalability and maintainability.
+Java REST API with Spring Boot. Implements a simple RESTful web service for communication between systems. Clients can send HTTP requests to the server to fetch the student's data present in DB and respond with JSON/XML data. Follows REST principles for scalability and maintainability.
