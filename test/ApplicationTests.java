@@ -1,5 +1,4 @@
-package com.example.Capgemini.demo.rest.capgemini;
-
+package test
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
